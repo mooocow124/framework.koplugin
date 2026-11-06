@@ -8,6 +8,6 @@ KOReader home screen is still visible for a tiny bit when using this, this is pr
 
 In a nutshell, when this plugin is installed and KOReader is launched with `--fwlaunch="name of tool"`, KOReader will immediately launch that tool and commit suicide when the tool closes!
 
-I've tested this with `ink-away.koplugin`, `boardgames.koplugin`, plus built-in KOReader cloud storage menu.
+I've tested this with `ink-away.koplugin`, `boardgames.koplugin`, `storefront.koplugin`, plus built-in KOReader cloud storage menu.
 
 Meant to be used with plugin whitelist from [this userpatch](https://gist.github.com/mooocow124/c9bf5de5e21370c032f3e019547d1a4e).
